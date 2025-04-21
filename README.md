@@ -39,6 +39,8 @@ It was frustrating to read, hard to take notes on, and felt like a waste of scro
 
 So I built this script to automatically clean it up — and make PDFs like that way easier to read and review.
 
+I will work on making this a web app to make this tool more accessible.
+
 ## 📄 License
 MIT — free to use, modify, and share.
 
